@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+    <nav>
+        <ul>
+            <li>Day Structure</li>
+            <li>Team</li>
+            <li>Schedule</li>      
+        </ul>
+    </nav>
+  <head>
+    <title></title>
+    
+  </head>
+  <body>
+    <p></p>
+    ...
+  </body>
+</html>
